@@ -1,0 +1,5 @@
+CareerCoachApp/
+│
+├── app.py
+├── requirements.txt
+└── sample_resume.pdf
